@@ -1,0 +1,21 @@
+
+# compiled output
+market/dist
+market/tmp
+market/out-tsc
+# Only exists if Bazel was run
+market/bazel-out
+
+# dependencies
+market/node_modules
+market-server/node_modules
+
+
+
+
+# System Files
+market/.DS_Store
+market-server/.DS_Store
+market/Thumbs.db
+market-server/Thumbs.db
+
